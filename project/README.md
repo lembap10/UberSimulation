@@ -1,4 +1,4 @@
-# CSCI 3081 Project - Beta Code
+# CSCI 3081 Project
 
 This directory contains the support code needed to visualize the CSCI 3081 project and run tests.  The beta support code explains how to quickly get a drone moving.  Most of the logic should be moved into the simulation facade so that the simulation is not dependent on the view.  See <code>web_app.cc</code> for more details.
 
